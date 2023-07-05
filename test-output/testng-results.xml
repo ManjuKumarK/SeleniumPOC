@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-05T18:47:22 IST" name="Suite" finished-at="2023-07-05T18:47:49 IST" duration-ms="26215">
+    <groups>
+    </groups>
+    <test started-at="2023-07-05T18:47:22 IST" name="Test" finished-at="2023-07-05T18:47:49 IST" duration-ms="26215">
+      <class name="com.poc.Duplicate.ValidLogintoCheckout">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.poc.Duplicate.ValidLogintoCheckout@1ed6388a]" started-at="2023-07-05T18:47:22 IST" name="beforeMethod" finished-at="2023-07-05T18:47:29 IST" duration-ms="6429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TS01_ValidLogintoCheckout()[pri:0, instance:com.poc.Duplicate.ValidLogintoCheckout@1ed6388a]" started-at="2023-07-05T18:47:29 IST" name="TS01_ValidLogintoCheckout" description="Valid login add to cart and checkout" finished-at="2023-07-05T18:47:31 IST" duration-ms="2102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS01_ValidLogintoCheckout -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.poc.Duplicate.ValidLogintoCheckout@1ed6388a]" started-at="2023-07-05T18:47:31 IST" name="afterMethod" finished-at="2023-07-05T18:47:31 IST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.poc.Duplicate.ValidLogintoCheckout@1ed6388a]" started-at="2023-07-05T18:47:31 IST" name="beforeMethod" finished-at="2023-07-05T18:47:36 IST" duration-ms="4466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TS02_ValidateCartPage()[pri:0, instance:com.poc.Duplicate.ValidLogintoCheckout@1ed6388a]" started-at="2023-07-05T18:47:36 IST" name="TS02_ValidateCartPage" description="Validate cart page" finished-at="2023-07-05T18:47:37 IST" duration-ms="1200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS02_ValidateCartPage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.poc.Duplicate.ValidLogintoCheckout@1ed6388a]" started-at="2023-07-05T18:47:37 IST" name="afterMethod" finished-at="2023-07-05T18:47:37 IST" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.poc.Duplicate.ValidLogintoCheckout@1ed6388a]" started-at="2023-07-05T18:47:37 IST" name="beforeMethod" finished-at="2023-07-05T18:47:42 IST" duration-ms="4536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TS03_ValidateCartAfterRemovingProdut()[pri:0, instance:com.poc.Duplicate.ValidLogintoCheckout@1ed6388a]" started-at="2023-07-05T18:47:42 IST" name="TS03_ValidateCartAfterRemovingProdut" description="Validate cart by removing one product" finished-at="2023-07-05T18:47:43 IST" duration-ms="1116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS03_ValidateCartAfterRemovingProdut -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.poc.Duplicate.ValidLogintoCheckout@1ed6388a]" started-at="2023-07-05T18:47:43 IST" name="afterMethod" finished-at="2023-07-05T18:47:43 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.poc.Duplicate.ValidLogintoCheckout@1ed6388a]" started-at="2023-07-05T18:47:43 IST" name="beforeMethod" finished-at="2023-07-05T18:47:48 IST" duration-ms="4607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TS04_InvalidLogin()[pri:0, instance:com.poc.Duplicate.ValidLogintoCheckout@1ed6388a]" started-at="2023-07-05T18:47:48 IST" name="TS04_InvalidLogin" description="InvalidLogin" finished-at="2023-07-05T18:47:48 IST" duration-ms="465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS04_InvalidLogin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.poc.Duplicate.ValidLogintoCheckout@1ed6388a]" started-at="2023-07-05T18:47:48 IST" name="afterMethod" finished-at="2023-07-05T18:47:48 IST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.poc.Duplicate.ValidLogintoCheckout -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
